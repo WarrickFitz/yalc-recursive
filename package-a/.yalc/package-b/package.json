@@ -1,0 +1,21 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/src/index.js",
+  "__main": "src/index.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.5.3"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "yalcSig": "6aff5ad0556ee24380364b364e6fd9fd"
+}
