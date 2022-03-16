@@ -123,7 +123,9 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+master1/dist
+package-a/dist
+package-b/dist
 
 # Gatsby files
 .cache/
