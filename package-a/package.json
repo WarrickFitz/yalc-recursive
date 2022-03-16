@@ -1,0 +1,26 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/src/index.js",
+  "__main": "src/index.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "install": "^0.13.0",
+    "npm": "^8.5.3",
+    "package-b": "file:.yalc/package-b"
+  },
+  "files": [
+    "dist",
+    "src"
+  ]
+}

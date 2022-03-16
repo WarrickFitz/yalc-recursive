@@ -1,0 +1,22 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/src/index.js",
+  "__main": "src/index.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "npm": "^8.5.3"
+  },
+  "files": [
+    "dist","src"
+  ]
+}
