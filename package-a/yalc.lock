@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "package-b": {
-      "signature": "6aff5ad0556ee24380364b364e6fd9fd",
+      "signature": "a45f2b89a8d224e5fceede3bba67e2e0",
       "file": true
     }
   }

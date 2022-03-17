@@ -2,8 +2,8 @@
   "version": "v1",
   "packages": {
     "package-a": {
-      "signature": "6166386c51a14e052988fc39130c4141",
-      "file": true
+      "signature": "085e989b163840a5b97cbb4bba9d13a3",
+      "pure": true
     }
   }
 }
